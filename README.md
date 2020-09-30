@@ -1,2 +1,2 @@
-# 3D Performance Capture Benchmark Server
+# 3D Performance Capture
 
