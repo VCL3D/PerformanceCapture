@@ -1,2 +1,2 @@
-# VolumetricCapture
-A multi-sensor capture system for free viewpoint video.
+# 3D Performance Capture Benchmark Server
+
